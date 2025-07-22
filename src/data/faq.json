@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is ChagaChaga Jobs?",
+    "answer": "ChagaChaga Jobs is a modern job portal where companies can post openings and job seekers can discover, save, and apply for opportunities with ease. It offers a seamless experience for both employers and candidates, complete with user authentication and intuitive design."
+  },
+  {
+    "question": "How do I post a job?",
+    "answer": "If you're an employer, simply log in and navigate to the 'Post a Job' section. Fill in the job details — such as title, description, location, and category — and submit. Your listing will go live instantly."
+  },
+  {
+    "question": "How can I search for jobs?",
+    "answer": "Job seekers can search using the homepage or the dedicated Job Search page. Filter by keywords, roles, locations, categories, and more to find the right fit."
+  },
+  {
+    "question": "How do I apply for a job?",
+    "answer": "Click on any job listing to view details. From there, hit 'Apply Now' and follow the steps — usually uploading your resume and filling out any required fields."
+  },
+  {
+    "question": "Can I save jobs for later?",
+    "answer": "Absolutely. Click 'Save Job' on any listing to bookmark it. You can access all your saved listings anytime from your profile under Saved Jobs."
+  },
+  {
+    "question": "How do I track my applications?",
+    "answer": "All your submitted applications appear under the Applications tab in your profile. You’ll be able to monitor the status of each one — including whether it’s under review, shortlisted, or responded to."
+  }
+]
