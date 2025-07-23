@@ -1,12 +1,46 @@
-# React + Vite
+# ChagaChaga Jobs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is made for finding and posting real world jobs. No confusing UI, aimed to provide a smooth user experience. Anyone can post and apply for jobs and get their life running on the track.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Apply for jobs
+- Post jobs
+- Clerk authenticated sing-up
+- Search and filter jobs for you
+- An intriguing job? Save it!
+- A section where you can find all your posted or saved jobs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech stack used
+
+- Vite + React
+- JavaScript
+- Supabase
+- Clerk
+
+---
+
+## Screenshots
+
+![Screenshot](/screenshots/screenshot1.png) 
+![Screenshot](/screenshots/screenshot2.png)  
+![Screenshot](/screenshots/screenshot3.png)
+![Screenshot](/screenshots/screenshot4.png)  
+![Screenshot](/screenshots/screenshot5.png)  
+![Screenshot](/screenshots/screenshot6.png)  
+
+---
+
+## Live Preview
+
+https://chagachaga-jobs.vercel.app/
+
+---
+
+Made with purpose by [@derarshan](https://github.com/derarshan)  
+"ChagaChagaChagaChaga"
+
