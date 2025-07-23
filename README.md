@@ -7,7 +7,7 @@ This app is made for finding and posting real world jobs. No confusing UI, aimed
 ## Features
 
 - Apply for jobs
-- Post jobs
+- Post jobs/Delete Jobs
 - Clerk authenticated sing-up
 - Search and filter jobs for you
 - An intriguing job? Save it!
@@ -26,12 +26,12 @@ This app is made for finding and posting real world jobs. No confusing UI, aimed
 
 ## Screenshots
 
-![Screenshot](/screenshots/screenshot1.png) 
-![Screenshot](/screenshots/screenshot2.png)  
-![Screenshot](/screenshots/screenshot3.png)
-![Screenshot](/screenshots/screenshot4.png)  
-![Screenshot](/screenshots/screenshot5.png)  
-![Screenshot](/screenshots/screenshot6.png)  
+![Onboarding](screenshots/screenshot1.png) 
+![Jobs Page](screenshots/screenshot2.png)  
+![Detailed Job Page](screenshots/screenshot3.png)
+![Filtered Job](screenshots/screenshot4.png)  
+![Accessing My Jobs](screenshots/screenshot5.png)  
+![All Created Jobs](screenshots/screenshot6.png)  
 
 ---
 
