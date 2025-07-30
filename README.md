@@ -28,7 +28,7 @@ ChagaChaga Jobs is a full-stack job board app that simplifies job hunting and hi
 
 ### 🧭 Onboarding
 ![Onboarding](screenshots/screenshot1.png) 
-### 📄 All Jobs Page
+### 📄 Job Listing Page
 ![Jobs Page](screenshots/screenshot2.png)  
 ### 📜 Detailed Job Page
 ![Detailed Job Page](screenshots/screenshot3.png)
