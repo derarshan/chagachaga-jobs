@@ -9,26 +9,41 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 const LandingPage = () => {
   return (
-    <main className="flex flex-col gap-10 sm:gap-10 py-10 sm:py-20">
+    <main className="flex flex-col gap-10 sm:gap-10 py-10 sm:py-0">
       <section className="text-center">
-        <h1 className="flex flex-row items-center justify-center gradient-title 
+        <h1 className="flex flex-row justify-center gradient-title 
           text-4xl font-extrabold sm:text-6xl lg:text-9xl tracking-tighter py-4">
-          Find Your Dream <img src="/logo.png" alt="Logo" className="h-32 sm:h-48 lg:h-64" />
+          Find Your Dream Opportunity
         </h1>
         <p className="text-gray-300 sm:mt-4 text-xs sm:text-xl">
           Explore thousands of job listings or find the perfect candidate!
         </p>
       </section>
 
-      <div className="flex gap-6 justify-center">
-        <Link to="/jobs">
-        <Button variant="blue" size="xl">Find Jobs</Button>
-        </Link>
+      <div className="flex flex-col items-center justify-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full max-w-4xl px-4">
+          <Link to="/jobs" className="w-full">
+            <Button
+              variant="blue"
+              className="w-full text-2xl py-16"
+            >
+              Find Jobs
+            </Button>
+          </Link>
 
-        <Link to="/post-job">
-        <Button size="xl" variant='destructive'>Post Jobs</Button>
-        </Link>
+          <Link to="/post-job" className="w-full">
+            <Button
+              size="xl"
+              variant="destructive"
+              className="w-full text-2xl py-16"
+            >
+              Post Jobs
+            </Button>
+          </Link>
+        </div>
       </div>
+
+     
 
       {/*carousel*/}
       <Carousel plugins={[Autoplay({ delay: 2000, stopOnInteraction: true})]} className="w-full py-10">
