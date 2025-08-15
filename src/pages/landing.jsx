@@ -17,7 +17,7 @@ const LandingPage = () => {
     <main className="flex flex-col gap-10 sm:gap-10 py-10 sm:py-0">
       <section className="text-center">
         <div
-          className="flex flex-row justify-center gradient-title 
+          className="flex flex-col justify-center gradient-title 
           text-4xl font-extrabold sm:text-6xl lg:text-9xl tracking-tighter py-4"
         >
           Find Your Dream
