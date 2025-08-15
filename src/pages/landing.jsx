@@ -16,12 +16,15 @@ const LandingPage = () => {
   return (
     <main className="flex flex-col gap-10 sm:gap-10 py-10 sm:py-0">
       <section className="text-center">
-        <h1
+        <div
           className="flex flex-row justify-center gradient-title 
           text-4xl font-extrabold sm:text-6xl lg:text-9xl tracking-tighter py-4"
         >
-          Find Your Dream Opportunity
-        </h1>
+          Find Your Dream
+          <div>
+          Opportunity
+        </div>
+        </div>
         <p className="text-gray-300 sm:mt-4 text-xs sm:text-xl">
           Explore thousands of job listings or find the perfect candidate!
         </p>
